@@ -29,6 +29,7 @@ After successful login, the admin can:
     View available books in the library.
     Maintain book records efficiently.
 
+
 **Student Module**
 Students can access the system using their valid University ID.
 
@@ -41,13 +42,10 @@ After successful verification, students can:
     1- A student must have a valid University ID.
     2- A student can issue a maximum of 2 books at a time.
 
-If a book is not found, the system displays:
-Book is not available in the library.
+If a book is not found, the system displays: **Book is not available in the library.**
 
-If a book is out of stock, the system displays:
-
-This book is currently unavailable. Please try after some days.\n
-The issue date and time are recorded when a book is issued.\n
+If a book is out of stock, the system displays:  **This book is currently unavailable. Please try after some days.**
+The issue date and time are recorded when a book is issued.
 Students must return books before the due date.
 
 
