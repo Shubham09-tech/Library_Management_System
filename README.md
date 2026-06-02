@@ -38,8 +38,8 @@ After successful verification, students can:
     Issue available books.
 
 **Book Issuing Rules**
-1- A student must have a valid University ID.
-2- A student can issue a maximum of 2 books at a time.
+    1- A student must have a valid University ID.
+    2- A student can issue a maximum of 2 books at a time.
 
 If a book is not found, the system displays:
 Book is not available in the library.
@@ -54,17 +54,15 @@ Students must return books before the due date.
 
 **How to Run**
 
-Step 1 - Clone the repository:
-git clone https://github.com/your-username/LibraryManagementSystem.git
-
+Step 1 - Clone the repository
 Step 2 - Navigate to the project directory:
-cd LibraryManagementSystem
+  **cd LibraryManagementSystem**
 
 Step 3 - Compile the Java files:
-javac *.java
+  **javac *.java**  
 
 Step 4 - Run the application:
-java Main
+  **java Main**
 
 
 
