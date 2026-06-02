@@ -46,8 +46,8 @@ Book is not available in the library.
 
 If a book is out of stock, the system displays:
 
-This book is currently unavailable. Please try after some days.
-The issue date and time are recorded when a book is issued.
+This book is currently unavailable. Please try after some days.\n
+The issue date and time are recorded when a book is issued.\n
 Students must return books before the due date.
 
 
@@ -64,12 +64,4 @@ Step 3 - Compile the Java files:
 Step 4 - Run the application:
   **java Main**
 
-
-
-
-
-
-
-Return issued books.
-View issued books.
 Check due dates and fines (if applicable).
