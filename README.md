@@ -40,13 +40,13 @@ After successful verification, students can:
 
 **Book Issuing Rules**
 
-1- A student must have a valid University ID.
-
-2- A student can issue a maximum of 2 books at a time.
-
-If a book is not found, the system displays: **Book is not available in the library.**
-
-If a book is out of stock, the system displays:  **This book is currently unavailable. Please try after some days.**
+    1- A student must have a valid University ID.
+    
+    2- A student can issue a maximum of 2 books at a time.
+    
+    3- If a book is not found, the system displays: **Book is not available in the library.**
+    
+    4- If a book is out of stock, the system displays:  **This book is currently unavailable. Please try after some days.**
 
 The issue date and time are recorded when a book is issued.
 
