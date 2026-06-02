@@ -39,8 +39,8 @@ After successful verification, students can:
     Issue available books.
 
 **Book Issuing Rules**
-    1- A student must have a valid University ID.
-    2- A student can issue a maximum of 2 books at a time.
+1- A student must have a valid University ID.
+2- A student can issue a maximum of 2 books at a time.
 
 If a book is not found, the system displays: **Book is not available in the library.**
 
